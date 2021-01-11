@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\myDotNetApp.exe
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\myDotNetApp.deps.json
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\myDotNetApp.runtimeconfig.json
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\myDotNetApp.runtimeconfig.dev.json
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\myDotNetApp.dll
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\ref\myDotNetApp.dll
+C:\Users\admin\Desktop\myDotNetApp\bin\MCD\Debug\net5.0\myDotNetApp.pdb
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.AssemblyInfo.cs
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.dll
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\ref\myDotNetApp.dll
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.pdb
+C:\Users\admin\Desktop\myDotNetApp\obj\MCD\Debug\net5.0\myDotNetApp.genruntimeconfig.cache
